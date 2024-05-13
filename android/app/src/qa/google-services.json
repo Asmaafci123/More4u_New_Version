@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "647540307208",
+    "firebase_url": "https://cemex-qa-gbl.firebaseio.com",
+    "project_id": "cemex-qa-gbl",
+    "storage_bucket": "cemex-qa-gbl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:6cefd5d608da1f8f6d68bd",
+        "android_client_info": {
+          "package_name": "com.cemex.cemextoday.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-q1f5qn81qv08vc95l0qmf8nr5dtva0rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cemex.cemextoday.uat",
+            "certificate_hash": "638f1e7244a39ea3c524c6d085c485432cd55777"
+          }
+        },
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:f432eba3514327466d68bd",
+        "android_client_info": {
+          "package_name": "com.cemex.more4u.eu.pre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:48730ede486361576d68bd",
+        "android_client_info": {
+          "package_name": "com.cemex.more4u.eu.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:652f55d9b22111306d68bd",
+        "android_client_info": {
+          "package_name": "com.cemex.more4u.eu.sdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:a57ae1020ff6bdec",
+        "android_client_info": {
+          "package_name": "com.cemex.pitnotifications.gbl.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:b74e72ca0ed915b96d68bd",
+        "android_client_info": {
+          "package_name": "com.cemex.policies.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647540307208:android:dc66f317891e29b36d68bd",
+        "android_client_info": {
+          "package_name": "com.cemex.revistanuestravoz.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9VwCT4dYiVRSkWVh2EWBn4-yiDeyYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647540307208-acftk63jt9ijnhm4ctl8a400tkdjicft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647540307208-27pcussv5gm4bujsduc7k358agjggcor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cemex.pitnotifications.gbl.qa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+#Sat Jan 06 17:38:05 EET 2024
+path.4=3/classes.dex
+path.3=1/classes.dex
+path.2=0/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=G\:\\cemex\\More4u_App-linked-with-azure-repo\\build\\app\\intermediates\\dex\\qaDebug\\mergeProjectDexQaDebug\\3\\classes.dex
+base.3=G\:\\cemex\\More4u_App-linked-with-azure-repo\\build\\app\\intermediates\\dex\\qaDebug\\mergeProjectDexQaDebug\\1\\classes.dex
+base.2=G\:\\cemex\\More4u_App-linked-with-azure-repo\\build\\app\\intermediates\\dex\\qaDebug\\mergeProjectDexQaDebug\\0\\classes.dex
+base.1=G\:\\cemex\\More4u_App-linked-with-azure-repo\\build\\app\\intermediates\\dex\\qaDebug\\mergeLibDexQaDebug\\0\\classes.dex
+base.0=G\:\\cemex\\More4u_App-linked-with-azure-repo\\build\\app\\intermediates\\dex\\qaDebug\\mergeExtDexQaDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex
